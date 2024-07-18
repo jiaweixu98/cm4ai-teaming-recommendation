@@ -1,8 +1,8 @@
 # cm4ai-teaming-recommendation
-Bridge2AI CM4AI Data Generation Project. Teaming recommendation alalgorithms.
+Bridge2AI CM4AI Data Generation Project. Teaming recommendation algorithms.
 
 # Teaming Recommendation Algorithms for Bridge2AI
-TKG datates: https://drive.google.com/drive/folders/1Aa5fVw1KQjV0jtIIC2i5mDUI8zYbSJxs?usp=sharing
+TKG datasets for teaming recommendation:  https://drive.google.com/drive/folders/1Aa5fVw1KQjV0jtIIC2i5mDUI8zYbSJxs?usp=sharing
 
 ## Motivation
 
